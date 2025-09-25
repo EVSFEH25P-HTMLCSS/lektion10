@@ -125,7 +125,9 @@ Sitemap: https://example.se/sitemap.xml
 
 # Gruppövning
 
-Optimera en existerande webbsida för SEO och conversion rate. Presentera era ändringar och val efteråt.
+Optimera en existerande webbsida för SEO och conversion rate.
+
+Anteckna alla ändringar och motivera dem. Vi går igenom dem tillsammans efteråt.
 
 Webbsidan är till ett låtsas-företag. Använd beskrivningen av företaget för att optimera sidan.
 
